@@ -1,6 +1,6 @@
 const Hapi = require("@hapi/hapi");
 const routes = require("./routes");
-const port = 3000;
+const port = 5000;
 const host = "localhost";
 
 const init = async () => {
